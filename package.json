@@ -78,7 +78,7 @@
     "jest": "^24.0.0",
     "lint-staged": "^9.4.3",
     "prettier": "^2.1.1",
-    "semantic-release": "^17.0.4",
+    "semantic-release": "^19.0.3",
     "ts-jest": "^26.0.0",
     "tslint": "^5.11.0",
     "tslint-config-prettier": "^1.15.0",
